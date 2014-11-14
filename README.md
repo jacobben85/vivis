@@ -1,8 +1,6 @@
 vivis
 =====
 
-vivis
-
 Getting started
 
 1. Install virtual-box https://www.virtualbox.org/wiki/Downloads
