@@ -12,10 +12,14 @@ Getting started
 
 git clone https://github.com/jacobben85/vivis.git
 
-5. cd vivis
-6. vagrant up
+To start up your guest machine
+1. cd vivis
+2. vagrant up
 
 your server should be now up and running.
 
 the guest ip will be 192.168.56.102
 
+Other useful commands
+1. vagrant halt
+2. vagrant destroy
