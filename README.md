@@ -26,9 +26,7 @@ Other useful commands
 
 To test your server, in the vivis folder look for a folder called default
 
-1. cd default
-2. vim index.html (and add any content you need to index.html)
-3. now try http://192.168.56.102
+Try http://192.168.56.102:8080 to check if yaws server is running on the guest
 
 
 
