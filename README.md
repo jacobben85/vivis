@@ -11,6 +11,7 @@ Getting started
 4. Clone VIVIS repo to desired folder 
 
 git clone https://github.com/jacobben85/vivis.git
+
 5. cd vivis
 6. vagrant up
 
