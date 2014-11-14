@@ -23,3 +23,4 @@ the guest ip will be 192.168.56.102
 Other useful commands
 1. vagrant halt
 2. vagrant destroy
+
