@@ -12,3 +12,7 @@ apt-get install -y phantomjs
 
 cd /home/vagrant/
 git clone https://github.com/jacobben85/code-everything.git
+
+echo "Installation complete"
+echo "use 'vagrant ssh' to login"
+echo "user/pass : vagrant/vagrant"
