@@ -6,3 +6,9 @@ apt-get install -y htop
 apt-get install -y git
 apt-get install -y erlang
 apt-get install -y yaws
+apt-get install -y node
+apt-get install -y npm
+apt-get install -y phantomjs
+
+cd /home/vagrant/
+git clone https://github.com/jacobben85/code-everything.git
