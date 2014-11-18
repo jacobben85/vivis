@@ -23,6 +23,12 @@ apt-get install -y mongooseim
 cd /home/vagrant/
 git clone https://github.com/jacobben85/code-everything.git
 
+echo "Testing MongooseIm running '/usr/lib/mongooseim/bin/mongooseim ping'"
+
+/usr/lib/mongooseim/bin/mongooseim ping
+
+echo "If you see a response 'pong', it was a success!!! Hurray!!"
+
 echo "Installation complete"
 echo "use 'vagrant ssh' to login"
 echo "user/pass : vagrant/vagrant"
